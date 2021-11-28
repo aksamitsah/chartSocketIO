@@ -1,5 +1,4 @@
 // Setup basic express server
-const fetch = require('node-fetch');
 const express = require('express');
 const app = express();
 const path = require('path');
